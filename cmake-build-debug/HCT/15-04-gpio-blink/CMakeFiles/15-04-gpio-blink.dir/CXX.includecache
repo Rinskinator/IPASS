@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/hu_dev/hwlib/library/hwlib.hpp
+
+C:/hu_dev/ipass/15-04-gpio-blink/main.cpp
+hwlib.hpp
+C:/hu_dev/ipass/15-04-gpio-blink/hwlib.hpp
+

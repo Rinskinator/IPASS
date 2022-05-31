@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/TI2Software/v1oopc-examples/00-01-count/book.cpp
+iostream
+-
+book.hpp
+C:/TI2Software/v1oopc-examples/00-01-count/book.hpp
+
+C:/TI2Software/v1oopc-examples/00-01-count/book.hpp
+iostream
+-
+
+C:/hu_dev/hwlib/library/hwlib.hpp
+
+C:/hu_dev/ipass/ipass/main.cpp
+hwlib.hpp
+C:/hu_dev/ipass/ipass/hwlib.hpp
+pca9685.hpp
+C:/hu_dev/ipass/ipass/pca9685.hpp
+
+C:/hu_dev/ipass/ipass/pca9685.cpp
+
+C:/hu_dev/ipass/ipass/pca9685.hpp
+hwlib.hpp
+C:/hu_dev/ipass/ipass/hwlib.hpp
+registerConstants.hpp
+C:/hu_dev/ipass/ipass/registerConstants.hpp
+
+C:/hu_dev/ipass/ipass/registerConstants.hpp
+
