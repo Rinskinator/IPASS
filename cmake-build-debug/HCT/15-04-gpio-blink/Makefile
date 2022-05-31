@@ -252,6 +252,30 @@ C_/hu_dev/ipass/ipass/pca9685.cpp.s:
 	cd /d C:\hu_dev\ipass\cmake-build-debug && $(MAKE) $(MAKESILENT) -f HCT\15-04-gpio-blink\CMakeFiles\15-04-gpio-blink.dir\build.make HCT/15-04-gpio-blink/CMakeFiles/15-04-gpio-blink.dir/C_/hu_dev/ipass/ipass/pca9685.cpp.s
 .PHONY : C_/hu_dev/ipass/ipass/pca9685.cpp.s
 
+C_/hu_dev/ipass/ipass/robotHond.obj: C_/hu_dev/ipass/ipass/robotHond.cpp.obj
+.PHONY : C_/hu_dev/ipass/ipass/robotHond.obj
+
+# target to build an object file
+C_/hu_dev/ipass/ipass/robotHond.cpp.obj:
+	cd /d C:\hu_dev\ipass\cmake-build-debug && $(MAKE) $(MAKESILENT) -f HCT\15-04-gpio-blink\CMakeFiles\15-04-gpio-blink.dir\build.make HCT/15-04-gpio-blink/CMakeFiles/15-04-gpio-blink.dir/C_/hu_dev/ipass/ipass/robotHond.cpp.obj
+.PHONY : C_/hu_dev/ipass/ipass/robotHond.cpp.obj
+
+C_/hu_dev/ipass/ipass/robotHond.i: C_/hu_dev/ipass/ipass/robotHond.cpp.i
+.PHONY : C_/hu_dev/ipass/ipass/robotHond.i
+
+# target to preprocess a source file
+C_/hu_dev/ipass/ipass/robotHond.cpp.i:
+	cd /d C:\hu_dev\ipass\cmake-build-debug && $(MAKE) $(MAKESILENT) -f HCT\15-04-gpio-blink\CMakeFiles\15-04-gpio-blink.dir\build.make HCT/15-04-gpio-blink/CMakeFiles/15-04-gpio-blink.dir/C_/hu_dev/ipass/ipass/robotHond.cpp.i
+.PHONY : C_/hu_dev/ipass/ipass/robotHond.cpp.i
+
+C_/hu_dev/ipass/ipass/robotHond.s: C_/hu_dev/ipass/ipass/robotHond.cpp.s
+.PHONY : C_/hu_dev/ipass/ipass/robotHond.s
+
+# target to generate assembly for a file
+C_/hu_dev/ipass/ipass/robotHond.cpp.s:
+	cd /d C:\hu_dev\ipass\cmake-build-debug && $(MAKE) $(MAKESILENT) -f HCT\15-04-gpio-blink\CMakeFiles\15-04-gpio-blink.dir\build.make HCT/15-04-gpio-blink/CMakeFiles/15-04-gpio-blink.dir/C_/hu_dev/ipass/ipass/robotHond.cpp.s
+.PHONY : C_/hu_dev/ipass/ipass/robotHond.cpp.s
+
 C_/hu_dev/rtos/coroutine.obj: C_/hu_dev/rtos/coroutine.cpp.obj
 .PHONY : C_/hu_dev/rtos/coroutine.obj
 
@@ -324,6 +348,9 @@ help:
 	@echo ... C_/hu_dev/ipass/ipass/pca9685.obj
 	@echo ... C_/hu_dev/ipass/ipass/pca9685.i
 	@echo ... C_/hu_dev/ipass/ipass/pca9685.s
+	@echo ... C_/hu_dev/ipass/ipass/robotHond.obj
+	@echo ... C_/hu_dev/ipass/ipass/robotHond.i
+	@echo ... C_/hu_dev/ipass/ipass/robotHond.s
 	@echo ... C_/hu_dev/rtos/coroutine.obj
 	@echo ... C_/hu_dev/rtos/coroutine.i
 	@echo ... C_/hu_dev/rtos/coroutine.s

@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ipass.dir/C_/hu_dev/hwlib/library/hwlib.cpp.obj"
   "CMakeFiles/ipass.dir/C_/hu_dev/ipass/ipass/main.cpp.obj"
   "CMakeFiles/ipass.dir/C_/hu_dev/ipass/ipass/pca9685.cpp.obj"
+  "CMakeFiles/ipass.dir/C_/hu_dev/ipass/ipass/robotHond.cpp.obj"
   "CMakeFiles/ipass.dir/C_/hu_dev/rtos/coroutine.cpp.obj"
   "CMakeFiles/ipass.dir/C_/hu_dev/rtos/rtos.cpp.obj"
   "FAKE_FILE_TO_TRICK_CMAKE_INTO_RUNNING_COMMAND_PRE_BUILD.txt"

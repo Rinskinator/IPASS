@@ -3,6 +3,9 @@
 
 HCT/15-04-gpio-blink/CMakeFiles/15-04-gpio-blink.dir/C_/hu_dev/bmptk/targets/cortex/bmptk_cortex.c.obj
  C:/hu_dev/bmptk/targets/cortex/bmptk_cortex.c
+HCT/15-04-gpio-blink/CMakeFiles/15-04-gpio-blink.dir/C_/TI2Software/v1oopc-examples/00-01-count/book.cpp.obj
+ C:/TI2Software/v1oopc-examples/00-01-count/book.cpp
+ C:/TI2Software/v1oopc-examples/00-01-count/book.hpp
 HCT/15-04-gpio-blink/CMakeFiles/15-04-gpio-blink.dir/C_/hu_dev/hwlib/library/hwlib.cpp.obj
  C:/hu_dev/hwlib/library/hwlib.cpp
  C:/hu_dev/hwlib/library/hwlib.hpp

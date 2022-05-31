@@ -9,10 +9,10 @@
 #############################################################################
 
 # source files in this project (main.cpp is automatically assumed)
-SOURCES :=
+SOURCES := pca9685.cpp robotHond.cpp
 
 # header files in this project
-HEADERS :=
+HEADERS := pca9685.hpp robotHond.hpp
 
 # other places to look for files for this project
 SEARCH  := 

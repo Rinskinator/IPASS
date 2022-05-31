@@ -194,10 +194,6 @@
 			<Option target="15-04-gpio-blink"/>
 			<Option target="ipass"/>
 		</Unit>
-		<Unit filename="C:/hu_dev/ipass/15-04-gpio-blink/MPU6050.hpp">
-			<Option target="15-04-gpio-blink"/>
-			<Option target="ipass"/>
-		</Unit>
 		<Unit filename="C:/hu_dev/ipass/15-04-gpio-blink/main.cpp">
 			<Option target="15-04-gpio-blink"/>
 		</Unit>
@@ -225,6 +221,14 @@
 			<Option target="ipass"/>
 		</Unit>
 		<Unit filename="C:/hu_dev/ipass/ipass/registerConstants.hpp">
+			<Option target="15-04-gpio-blink"/>
+			<Option target="ipass"/>
+		</Unit>
+		<Unit filename="C:/hu_dev/ipass/ipass/robotHond.cpp">
+			<Option target="15-04-gpio-blink"/>
+			<Option target="ipass"/>
+		</Unit>
+		<Unit filename="C:/hu_dev/ipass/ipass/robotHond.hpp">
 			<Option target="15-04-gpio-blink"/>
 			<Option target="ipass"/>
 		</Unit>
