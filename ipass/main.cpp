@@ -42,16 +42,24 @@ int main(){
     spot robot_dog(servo_bus, chip_address);
 
 
+//    robot_dog.lay_down(all_registers);
+//    hwlib::wait_ms(2000);
+//
+//
+//    robot_dog.stand_up(all_registers);
+//    hwlib::wait_ms(5000);
+
+
     for(unsigned int i=0; i<3; i++) {
 
         robot_dog.sit(all_registers);
-        hwlib::wait_ms(2000);
+        hwlib::wait_ms(5000);
 
         robot_dog.lay_down(all_registers);
-        hwlib::wait_ms(2000);
+        hwlib::wait_ms(5000);
 
         robot_dog.stand_up(all_registers);
-        hwlib::wait_ms(2000);
+        hwlib::wait_ms(5000);
 
     }
 }
